@@ -1,16 +1,10 @@
 # Hola, soy Mijahel Rojas 👋
 
-### Estudiante de Ingeniería de Software con IA | Desarrollador Full Stack
+### Estudiante de Ingeniería de Software con IA
 
-Actualmente estudio **Ingeniería de Software con Inteligencia Artificial en SENATI**.
+Actualmente me encuentro aprendiendo y desarrollando mis habilidades en programación, desarrollo web, backend y bases de datos.
 
-Me enfoco principalmente en el **desarrollo web**, trabajando tanto en frontend como en backend y bases de datos relacionales.
-
-Me gusta desarrollar proyectos reales donde pueda aplicar lo que voy aprendiendo, mejorar sistemas existentes y entender cómo funciona una aplicación desde la interfaz hasta la base de datos.
-
-He trabajado en proyectos académicos y personales relacionados con **sistemas de inventario, autenticación de usuarios, sitios web y aplicaciones Full Stack**.
-
-Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades como desarrollador.
+Me gusta seguir explorando nuevas tecnologías y mejorar constantemente mediante la práctica.
 
 ---
 
