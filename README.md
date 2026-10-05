@@ -32,7 +32,7 @@ Me gusta seguir explorando nuevas tecnologías y mejorar constantemente mediante
 
 ---
 
-# 🛠️ Habilidades
+# 🛠️ CONOCIMIENTOS Y HABILIDADES
 
 ## 💻 Lenguajes de Programación
 
